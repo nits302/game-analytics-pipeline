@@ -6,6 +6,7 @@ MockData.zip
 *.json.gz
 
 Result_DE_test.docx
+DE - Bài Test.pdf
 
 # Python virtual environment
 venv/
