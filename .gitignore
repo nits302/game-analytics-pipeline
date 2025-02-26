@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Data files
+MockData.zip
+*.json.gz
+
+Result_DE_test.docx
+
+# Python virtual environment
+venv/
+
+# Google Cloud credentials
+*.json
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
