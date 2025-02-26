@@ -124,7 +124,3 @@ The BigQuery table schema includes:
 - Clustering by event_name and event_date
 - Compressed file support
 - Efficient batch loading
-
-```
-
-```
