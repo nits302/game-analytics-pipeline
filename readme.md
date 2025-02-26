@@ -70,9 +70,9 @@ pip install -r requirements.txt
 
 Run the ingestion script to upload data to GCS and BigQuery:
 
-bash
+```bash
 python ingestion_data.py
-
+```
 ### Analytics Queries
 
 The `SQL` folder contains pre-built queries for various analyses:
